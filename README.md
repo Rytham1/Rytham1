@@ -2,9 +2,9 @@
 
 - 🎒 I’m a Computer Science student **@ UC Davis**
 
-- 💻 Accelerate Software Track **@ IBM**
+- 💻 ** SWE @ IBM, Prev @ Distyl AI **
 
-- 🕹️ Developer **@ Bloxwater (Roblox)**
+- 🕹️ Game Dev: **@ Bloxwater (Roblox)**
 
 - 📫 How to reach me **Rythamdawar30@Gmail.com**
   
