@@ -2,7 +2,7 @@
 
 - 🎒 I’m a Computer Science student **@ UC Davis**
 
-- 💻 ** SWE @ IBM, Prev @ Distyl AI **
+- 💻 **SWE @ IBM, Prev @ Distyl AI**
 
 - 🕹️ Game Dev: **@ Bloxwater (Roblox)**
 
