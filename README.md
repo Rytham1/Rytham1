@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rytham Dawar</h1>
 
-- 🎒 I’m a Computer Science student **@ UC Davis**
+- 🎒 I’m double majoring in Computer Science and Statistics **@ UC Davis**
 
 - 💻 **SWE Intern @ IBM, Prev @ Distyl AI**
 
